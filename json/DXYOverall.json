@@ -14,16 +14,16 @@
             ],
             "summary": "",
             "countRemark": "",
-            "currentConfirmedCount": 56951,
+            "currentConfirmedCount": 56940,
             "confirmedCount": 66576,
             "suspectedCount": 8969,
-            "curedCount": 8101,
+            "curedCount": 8112,
             "deadCount": 1524,
             "seriousCount": 11053,
             "suspectedIncr": 2277,
-            "currentConfirmedIncr": 1128,
+            "currentConfirmedIncr": 1117,
             "confirmedIncr": 2644,
-            "curedIncr": 1373,
+            "curedIncr": 1384,
             "deadIncr": 143,
             "seriousIncr": 849,
             "virus": "该字段已替换为说明1",
@@ -91,7 +91,7 @@
                     "title": "治愈率"
                 }
             ],
-            "updateTime": 1581732613367
+            "updateTime": 1581736183007
         }
     ],
     "success": true
